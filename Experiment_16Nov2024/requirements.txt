@@ -1,0 +1,11 @@
+transformers==4.44.2
+accelerate
+peft
+trl
+datasets
+torch
+evaluate
+bitsandbytes
+Pillow # For image processing (PIL)
+xformers
+unslot
